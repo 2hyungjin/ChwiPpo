@@ -11,3 +11,5 @@
 #### [Manifest](https://github.com/2hyungjin/ChwiPpo/blob/main/Manifest.md)
 
 #### [인텐트](https://github.com/2hyungjin/ChwiPpo/blob/main/Intent.md)
+
+#### [Life Cycle]([ChwiPpo/Life Cycle.md at main · 2hyungjin/ChwiPpo · GitHub](https://github.com/2hyungjin/ChwiPpo/blob/main/Life%20Cycle.md))
